@@ -1,8 +1,8 @@
 ### Email: elijahm0487@hstat.org  
-#### [Click here to visit my SEP11 portfolio](https://sites.google.com/a/hstat.org/elijahm0487sep11/)
-##### **Hi, my name is Elijah Matos! I'm a student at the High School of Telecommunications, Arts and Technology in Brooklyn, New York.**    
+#### [Click here to visit my SEP11 portfolio](https://sites.google.com/a/hstat.org/elijahm0487sep11/)  
+##### **Hi, my name is Elijah Matos! I'm a student at the High School of Telecommunications, Arts and Technology in Brooklyn, New York.**      
 ---
-_My schedule_
+_My schedule_  
 1. Physics
 2. Spanish 5 
 3. AP US History 
