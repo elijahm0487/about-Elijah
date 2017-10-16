@@ -3,7 +3,7 @@
 ##### **Hi, my name is Elijah Matos! I'm a student at the High School of Telecommunications, Arts and Technology in Brooklyn, New York.**      
 ---
 _My schedule_  
-1. Physics
+1. Physics 
 2. Spanish 5 
 3. AP US History 
 4. AP English Language Composition 
@@ -17,4 +17,6 @@ Favorite TV Shows:
 * Parks and Recreation 
 * The Flash   
 
-The Office is emboldened because it is my personal favorite. 
+The Office is emboldened because it is my personal favorite and because it's awesome. 
+
+Reviewed by other Mr. Matos (Travis )
